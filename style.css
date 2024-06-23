@@ -1,0 +1,36 @@
+@font-face {
+    font-family: myfont;
+    src: url(font/FOTRodin\ Pro\ L.otf);
+}
+body{
+    background-color: black;
+
+}
+*{
+    font-family:myfont;
+}
+.navbar{
+    font-family: myfont;
+
+}
+#gambarmain{
+    display: block;
+    height: 300px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+html,main{ 
+    background-color: #dcd8c0;
+    height: 90%;
+
+}
+
+
+#intro{
+    font-family: myfont;
+    font-size: 20px;
+    color: black;
+
+}
